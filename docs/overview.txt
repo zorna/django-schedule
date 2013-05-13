@@ -45,4 +45,3 @@ Accessing Occurrences from lists of Events
 ------------------------------------------
 
 You are often going to have a list of events and want to get occurrences from them.  To do this you can use Periods, and EventListManagers.
-
